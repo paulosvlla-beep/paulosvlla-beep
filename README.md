@@ -11,10 +11,22 @@
 
 Olá! 👋 Eu sou o **Paulo Marcelli**, estudante de **Análise e Desenvolvimento de Sistemas** no **Centro Universitário FECAP**. Sou apaixonado por tecnologia e atualmente estou focado em dominar **Python** e explorar o mundo da **Inteligência Artificial**.
 
-- 🔭 Atualmente trabalhando em: Estudos de lógica e automação com Python.
+- 🔭 Atualmente trabalhando em: **Luna AI** (Meu projeto principal ).
 - 🌱 Aprendendo: Python, Inteligência Artificial e Ciência de Dados.
-- 🎓 Estudante na: **FECAP** (Fundação Escola de Comércio Álvares Penteado ).
+- 🎓 Estudante na: **FECAP** (Fundação Escola de Comércio Álvares Penteado).
 - 💬 Pergunte-me sobre: Python e vida acadêmica.
+
+---
+
+## 🌟 Projeto em Destaque: Luna AI
+
+<div align="center">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663634762308/JuNLBhnNUlckckPv.jpeg" width="300px" alt="Luna AI Logo" />
+    
+
+  <h3>Luna AI</h3>
+  <p>Meu projeto pessoal e principal focado em Inteligência Artificial.</p>
+</div>
 
 ---
 
@@ -65,5 +77,3 @@ Olá! 👋 Eu sou o **Paulo Marcelli**, estudante de **Análise e Desenvolviment
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=004a8d&height=100&section=footer" width="100%" />
 </div>
-
-
